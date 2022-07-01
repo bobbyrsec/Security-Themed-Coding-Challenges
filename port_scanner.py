@@ -4,10 +4,10 @@ import socket
 def port_scanner(ip, port1, port2):
 	
 	for port in range(port1, port2):
-		#print (port)
+		print (port)
 		try:
 		   s = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
-		   s.settimeout(1)
+		   s.settimeout(0.1)
 		   result = s.connect((ip,port))
 		   print (port, "PORT OPEN")
 		except:

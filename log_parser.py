@@ -1,6 +1,8 @@
-#Collect logs (of any kind) and write a parser which pulls out specific details (domains, executable names, timestamps etc.)
+'''
+Parse arbitrary logs
 
-#Pull IP addresses, time stamps, and endpoints from log files 
+Collect logs (of any kind) and write a parser which pulls out specific details (domains, executable names, timestamps etc.)
+'''
 
 #Helpful resource: https://regexr.com
 

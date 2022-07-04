@@ -1,3 +1,11 @@
+'''
+Botnets
+
+How would you build ssh botnet?
+
+'''
+
+
 import paramiko 
 
 class Client: 

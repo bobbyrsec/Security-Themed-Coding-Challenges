@@ -1,4 +1,9 @@
-#Implement a cypher which converts text to emoji or something.
+'''
+Cyphers / encryption algorithms
+
+Implement a cypher which converts text to emoji or something.
+Be able to implement basic cyphers.
+'''
 
 text_to_emoji_mapping = {"food": "🍔", "cat": "🐱", "dog": "🐕", "happy": "😊"} 
 

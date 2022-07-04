@@ -1,3 +1,10 @@
+'''
+Password bruteforcer
+
+Generate credentials and store successful logins.
+'''
+
+
 #Wireframe for password bruteforcing 
 
 #Generate wordlist with cewl

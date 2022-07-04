@@ -1,4 +1,9 @@
-#Write a script to scrape information from a website.
+'''
+Web scrapers
+
+Write a script to scrape information from a website.
+
+'''
 
 #Recursively look for hrefs and get product descriptions:  <p class="description">Acer Aspire ES1-572 Black, 15.6" HD, Core i3-6006U, 4GB, 500GB, Windows 10 Home</p>
 

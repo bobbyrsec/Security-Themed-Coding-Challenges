@@ -1,32 +1,22 @@
 # Security-Themed-Coding-Challenges
 
-Cyphers / encryption algorithms
+https://github.com/gracenolan/Notes/blob/master/interview-study-notes-for-security-engineering.md
 
-Implement a cypher which converts text to emoji or something.
-Be able to implement basic cyphers.
-Parse arbitrary logs
+Implement a cypher which converts text to emoji 
 
 Collect logs (of any kind) and write a parser which pulls out specific details (domains, executable names, timestamps etc.)
-Web scrapers
 
 Write a script to scrape information from a website.
-Port scanners
 
-Write a port scanner or detect port scanning.
-Botnets
+Write a port scanner 
 
-How would you build ssh botnet?
-Password bruteforcer
+Build an ssh botnet
 
-Generate credentials and store successful logins.
-Scrape metadata from PDFs
+Write a password bruteforcer
 
-Write a mini forensics tool to collect identifying information from PDF metadata.
+Write a mini forensics tool to collect identifying information from PDF metadata
+
 Recover deleted items
 
-Most software will keep deleted items for ~30 days for recovery. Find out where these are stored.
-Write a script to pull these items from local databases.
-Malware signatures
+Write a program that looks for malware signatures in binaries and code samples.
 
-A program that looks for malware signatures in binaries and code samples.
-Look at Yara rules for examples.
